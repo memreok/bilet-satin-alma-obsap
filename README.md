@@ -6,7 +6,7 @@
 
 ```
 git clone https://github.com/memreok/bilet-satin-alma-obsap.git
-cd bilet-satin-alma
+cd bilet-satin-alma-obsap
 docker compose up --build -d
 ```
 Congrats!
